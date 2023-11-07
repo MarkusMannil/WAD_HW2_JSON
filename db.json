@@ -1,0 +1,92 @@
+[
+  {
+    "post_id": 1,
+    "post_date": "2023-01-10T18:01:43.511Z",
+    "post_author": "Miguel3000",
+    "author_id": 1,
+    "body": "jou jou jou tüübid",
+    "img_path": "res/img/melonman.jpg",
+    "prfoile_img_path" : "res/img/me.png"
+  },
+  {
+    "post_id": 2,
+    "post_date": "2022-10-07T18:25:43.511Z",
+    "post_author": "VõluriMees",
+    "author_id": 12,
+    "body": "░░░░░▐▀█▀▌░░░░▀█▄░░░\n░░░░░▐█▄█▌░░░░░░▀█▄░\n░░░░░░▀▄▀░░░▄▄▄▄▄▀▀░\n░░░░▄▄▄██▀▀▀▀░░░░░░░\n░░░█▀▄▄▄█░▀▀░░░░░░░░\n░░░▌░▄▄▄▐▌▀▀▀░░░░░░░\n▄░▐░░░▄▄░█░▀▀░░░░░░░ U HAVE BEEN SPOOKED BY THE\n▀█▌░░░▄░▀█▀░▀░░░░░░░\n░░░░░░░▄▄▐▌▄▄░░░░░░░\n░░░░░░░▀███▀█░▄░░░░░\n░░░░░░▐▌▀▄▀▄▀▐▄░░░░░ SPOOKY SKILENTON\n░░░░░▐▀░░░░░░▐▌░░░░░\n░░░░░░█░░░░░░░░█░░░░\n░░░░░▐▌░░░░░░░░░█░░░\n░░░░░█░░░░░░░░░░▐▌░░",
+    "img_path": null,
+    "prfoile_img_path" : "res/img/me.png"
+  },
+  {
+    "post_id": 3,
+    "post_date": "2023-01-10T20:25:3.511Z",
+    "post_author": "LinuxFan",
+    "author_id": 3,
+    "body": "I'd just like to interject for a moment. What you're refering to as Linux, is in fact, GNU/Linux, or as I've recently taken to calling it, GNU plus Linux. Linux is not an operating system unto itself, but rather another free component of a fully functioning GNU system made useful by the GNU corelibs, shell utilities and vital system components comprising a full OS as defined by POSIX.\n\n    Many computer users run a modified version of the GNU system every day, without realizing it. Through a peculiar turn of events, the version of GNU which is widely used today is often called Linux, and many of its users are not aware that it is basically the GNU system, developed by the GNU Project. \n\nThere really is a Linux, and these people are using it, but it is just a part of the system they use. Linux is the kernel: the program in the system that allocates the machine's resources to the other programs that you run. The kernel is an essential part of an operating system, but useless by itself; it can only function in the context of a complete operating system. Linux is normally used in combination with the GNU operating system: the whole system is basically GNU with Linux added, or GNU/Linux. All the so-called Linux distributions are really distributions of GNU/Linux!",
+    "img_path": "res/img/Tux.svg",
+    "prfoile_img_path" : "res/img/me.png"
+  },
+  {
+    "post_id": 4,
+    "post_date": "2023-01-10T18:33:43.511Z",
+    "post_author": "PowerTool",
+    "author_id": 1000,
+    "body": "TRSHHHH TRSHHH",
+    "img_path": "res/img/powerDrill.png",
+    "prfoile_img_path" : "res/img/me.png"
+  },
+  {
+    "post_id": 5,
+    "post_date": "2023-04-21T01:25:43.511Z",
+    "post_author": "User93201321",
+    "author_id": 12,
+    "body": "?",
+    "img_path": null,
+    "prfoile_img_path" : "res/img/me.png"
+  },
+  {
+    "post_id": 6,
+    "post_date": "2023-01-10T18:25:43.511Z",
+    "post_author": "Long dude",
+    "author_id": 32,
+    "body": "Ya'll should look into Wave Function Collapse Algorithm, it's pretty cool",
+    "img_path": null,
+    "prfoile_img_path" : "res/img/me.png"
+  },
+  {
+    "post_id": 7,
+    "post_date": "2023-01-10T18:25:43.511Z",
+    "post_author": "Elder",
+    "author_id": 8,
+    "body": "Doom Event is COMMING, I can feel it in my bones!!!",
+    "img_path": "/res/img/elder.png",
+    "prfoile_img_path" : "res/img/me.png"
+  },
+  {
+    "post_id": 8,
+    "post_date": "2023-01-10T18:25:43.511Z",
+    "post_author": "Dryad",
+    "author_id": 175,
+    "body": "The world is 0% corrupted!\nYou should try harder",
+    "img_path": "res/img/dryard.png",
+    "prfoile_img_path" : "res/img/me.png"
+  },
+  {
+    "post_id": 9,
+    "post_date": "2023-01-10T18:25:43.511Z",
+    "post_author": "Mister100",
+    "author_id": 10,
+    "body": "GG EZ",
+    "img_path": null,
+    "prfoile_img_path" : "res/img/me.png"
+  },
+  {
+    "post_id": 10,
+    "post_date": "2023-01-10T18:25:43.511Z",
+    "post_author": "CheeseLover",
+    "author_id": 999,
+    "body": "Stretched curd, for which the Italian term pasta filata is often used, is a group of cheeses where the hot curd is stretched, today normally mechanically, producing various effects. Many traditional pasta filata cheeses such as the Italian mozzarella and halloumi from the Eastern Mediterranean also fall into the fresh cheese category. Fresh curds are stretched and kneaded in hot water to form a ball of mozzarella, which in southern Italy is usually eaten within a few hours of being made. Stored in brine, it can easily be shipped, and it is known worldwide for its use on pizza. But not all stretch-curd cheeses are fresh. the Italian provolone, Ragusano, caciocavallo and many others are hard or semi-hard, and aged. Oaxaca cheese from Mexico is semi-hard, but not aged. Like the pressed cooked cheeses , all these are made using thermophilic lactic fermentation starters.\n Many of the various types of string cheese are made this way.",
+    "img_path": "res/img/cheese.png",
+    "prfoile_img_path" : "res/img/me.png"
+  }
+]
